@@ -1,6 +1,27 @@
-# 👁️ My Computer Vision Portfolio
+<div align="center">
 
-Welcome to my **Computer Vision Portfolio**! Here, I showcase deep learning projects focused on image classification, object detection, depth estimation, and image restoration — using **PyTorch**, **TensorFlow**, **EfficientNet**, **MIRNet**, **YOLOv8**, and transfer learning techniques across medical, agricultural, and real-world datasets.
+# 👁️ Computer Vision Portfolio
+
+**_Building production-grade vision models — not just Colab notebooks._**
+
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![EfficientNet](https://img.shields.io/badge/EfficientNet-Transfer_Learning-4285F4?style=flat-square&logo=google&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Object_Detection-00FFFF?style=flat-square&logo=ultralytics&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-Deployment-F97316?style=flat-square&logo=gradio&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-Competitions-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![IIT Madras](https://img.shields.io/badge/IIT_Madras-DLP-8B0000?style=flat-square)
+
+</div>
+
+---
+
+## 🧠 About This Portfolio
+
+I build and ship **end-to-end computer vision systems** — from raw dataset ingestion to deployed inference demos. Projects span medical imaging, agricultural AI, real-world image restoration, and scene understanding, all implemented with production-conscious practices: mixed precision training, Test Time Augmentation, Grad-CAM explainability, and Gradio-based deployments.
 
 ---
 
@@ -35,11 +56,13 @@ Welcome to my **Computer Vision Portfolio**! Here, I showcase deep learning proj
 | Category | Tools |
 |---|---|
 | **Frameworks** | PyTorch, TensorFlow, Keras |
-| **Architectures** | EfficientNetV2, EfficientNet-B0, MobileNetV2, MIRNet, YOLOv8 |
-| **Techniques** | Transfer Learning, TTA, Mixed Precision, Label Smoothing, Grad-CAM |
-| **Metrics** | Accuracy, mAP@0.5, PSNR, Confusion Matrix |
-| **Deployment** | Gradio, HuggingFace Spaces |
-| **Languages** | Python |
+| **Architectures** | EfficientNetV2, EfficientNet-B0, MobileNetV2, MIRNet, YOLOv8, U-Net, RRDBNet |
+| **Techniques** | Transfer Learning, TTA, Mixed Precision (AMP), Label Smoothing, Grad-CAM, PixelShuffle |
+| **Data & Augmentation** | Albumentations, torchvision transforms, train/val/test splitting, normalization |
+| **Training Utilities** | CosineAnnealingLR, AdamW, BerHu Loss, Gradient Loss, EMA |
+| **Evaluation** | Accuracy, mAP@0.5, PSNR, Confusion Matrix, Classification Report |
+| **Deployment** | Gradio, HuggingFace Spaces, ONNX export |
+| **Environment** | Python 3.10+, Jupyter Notebooks, Google Colab, Kaggle Kernels |
 
 ---
 
@@ -52,4 +75,8 @@ Feel free to connect with me for collaborations, feedback, or opportunities.
 
 ---
 
-> Thank you for visiting my portfolio!
+<div align="center">
+
+_Thank you for visiting my portfolio!_
+
+</div>
